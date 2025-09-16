@@ -1,2 +1,6 @@
 venv
 test.py
+api_project.txt
+__pycache__
+resources_parser.py
+TODO

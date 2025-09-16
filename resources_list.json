@@ -1,0 +1,762 @@
+[
+    {
+        "name": "Limestone",
+        "category": "Ores"
+    },
+    {
+        "name": "Iron Ore",
+        "category": "Ores"
+    },
+    {
+        "name": "Copper Ore",
+        "category": "Ores"
+    },
+    {
+        "name": "Caterium Ore",
+        "category": "Ores"
+    },
+    {
+        "name": "Coal",
+        "category": "Ores"
+    },
+    {
+        "name": "Raw Quartz",
+        "category": "Ores"
+    },
+    {
+        "name": "Sulfur",
+        "category": "Ores"
+    },
+    {
+        "name": "Bauxite",
+        "category": "Ores"
+    },
+    {
+        "name": "SAM",
+        "category": "Ores"
+    },
+    {
+        "name": "Uranium",
+        "category": "Ores"
+    },
+    {
+        "name": "Iron Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Copper Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Caterium Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Steel Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Aluminum Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Ficsite Ingot",
+        "category": "Ingots"
+    },
+    {
+        "name": "Concrete",
+        "category": "Minerals"
+    },
+    {
+        "name": "Quartz Crystal",
+        "category": "Minerals"
+    },
+    {
+        "name": "Silica",
+        "category": "Minerals"
+    },
+    {
+        "name": "Copper Powder",
+        "category": "Minerals"
+    },
+    {
+        "name": "Polymer Resin",
+        "category": "Minerals"
+    },
+    {
+        "name": "Petroleum Coke",
+        "category": "Minerals"
+    },
+    {
+        "name": "Aluminum Scrap",
+        "category": "Minerals"
+    },
+    {
+        "name": "Alien Protein",
+        "category": "Aliens"
+    },
+    {
+        "name": "Alien DNA Capsule",
+        "category": "Aliens"
+    },
+    {
+        "name": "Water",
+        "category": "Liquids"
+    },
+    {
+        "name": "Crude Oil",
+        "category": "Liquids"
+    },
+    {
+        "name": "Heavy Oil Residue",
+        "category": "Liquids"
+    },
+    {
+        "name": "Fuel",
+        "category": "Liquids"
+    },
+    {
+        "name": "Liquid Biofuel",
+        "category": "Liquids"
+    },
+    {
+        "name": "Turbofuel",
+        "category": "Liquids"
+    },
+    {
+        "name": "Alumina Solution",
+        "category": "Liquids"
+    },
+    {
+        "name": "Sulfuric Acid",
+        "category": "Liquids"
+    },
+    {
+        "name": "Nitric Acid",
+        "category": "Liquids"
+    },
+    {
+        "name": "Dissolved Silica",
+        "category": "Liquids"
+    },
+    {
+        "name": "Nitrogen Gas",
+        "category": "Gas"
+    },
+    {
+        "name": "Rocket Fuel",
+        "category": "Gas"
+    },
+    {
+        "name": "Ionized Fuel",
+        "category": "Gas"
+    },
+    {
+        "name": "Dark Matter Residue",
+        "category": "Gas"
+    },
+    {
+        "name": "Excited Photonic Matter",
+        "category": "Gas"
+    },
+    {
+        "name": "Iron Rod",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Screws",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Iron Plate",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Reinforced Iron Plate",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Copper Sheet",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Alclad Aluminum Sheet",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Aluminum Casing",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Steel Pipe",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Steel Beam",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Encased Industrial Beam",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Modular Frame",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Heavy Modular Frame",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Fused Modular Frame",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Ficsite Trigon",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Fabric",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Plastic",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Rubber",
+        "category": "Standard Parts"
+    },
+    {
+        "name": "Rotor",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Stator",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Battery",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Motor",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Heat Sink",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Cooling System",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Turbo Motor",
+        "category": "Industrial Parts"
+    },
+    {
+        "name": "Wire",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cable",
+        "category": "Electronics"
+    },
+    {
+        "name": "Quickwire",
+        "category": "Electronics"
+    },
+    {
+        "name": "Circuit Board",
+        "category": "Electronics"
+    },
+    {
+        "name": "AI Limiter",
+        "category": "Electronics"
+    },
+    {
+        "name": "High-Speed Connector",
+        "category": "Electronics"
+    },
+    {
+        "name": "Reanimated SAM",
+        "category": "Electronics"
+    },
+    {
+        "name": "SAM Fluctuator",
+        "category": "Electronics"
+    },
+    {
+        "name": "Computer",
+        "category": "Communications"
+    },
+    {
+        "name": "Supercomputer",
+        "category": "Communications"
+    },
+    {
+        "name": "Radio Control Unit",
+        "category": "Communications"
+    },
+    {
+        "name": "Crystal Oscillator",
+        "category": "Communications"
+    },
+    {
+        "name": "Superposition Oscillator",
+        "category": "Communications"
+    },
+    {
+        "name": "Diamonds",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Time Crystal",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Dark Matter Crystal",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Singularity Cell",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Neural-Quantum Processor",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Alien Power Matrix",
+        "category": "Quantum Technology"
+    },
+    {
+        "name": "Empty Canister",
+        "category": "Containers"
+    },
+    {
+        "name": "Empty Fluid Tank",
+        "category": "Containers"
+    },
+    {
+        "name": "Pressure Conversion Cube",
+        "category": "Containers"
+    },
+    {
+        "name": "Packaged Water",
+        "category": "Containers"
+    },
+    {
+        "name": "Packaged Alumina Solution",
+        "category": "Containers"
+    },
+    {
+        "name": "Packaged Sulfuric Acid",
+        "category": "Containers"
+    },
+    {
+        "name": "Packaged Nitric Acid",
+        "category": "Containers"
+    },
+    {
+        "name": "Packaged Nitrogen Gas",
+        "category": "Containers"
+    },
+    {
+        "name": "Leaves",
+        "category": "Fuels"
+    },
+    {
+        "name": "Mycelia",
+        "category": "Fuels"
+    },
+    {
+        "name": "Flower Petals",
+        "category": "Fuels"
+    },
+    {
+        "name": "Wood",
+        "category": "Fuels"
+    },
+    {
+        "name": "Biomass",
+        "category": "Fuels"
+    },
+    {
+        "name": "Compacted Coal",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Oil",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Heavy Oil Residue",
+        "category": "Fuels"
+    },
+    {
+        "name": "Solid Biofuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Fuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Liquid Biofuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Turbofuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Rocket Fuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Packaged Ionized Fuel",
+        "category": "Fuels"
+    },
+    {
+        "name": "Uranium Fuel Rod",
+        "category": "Fuels"
+    },
+    {
+        "name": "Plutonium Fuel Rod",
+        "category": "Fuels"
+    },
+    {
+        "name": "Black Powder",
+        "category": "Consumed"
+    },
+    {
+        "name": "Smokeless Powder",
+        "category": "Consumed"
+    },
+    {
+        "name": "Gas Filter",
+        "category": "Consumed"
+    },
+    {
+        "name": "Color Cartridge",
+        "category": "Consumed"
+    },
+    {
+        "name": "Beacon",
+        "category": "Consumed"
+    },
+    {
+        "name": "Iodine-Infused Filter",
+        "category": "Consumed"
+    },
+    {
+        "name": "Iron Rebar",
+        "category": "Ammos"
+    },
+    {
+        "name": "Stun Rebar",
+        "category": "Ammos"
+    },
+    {
+        "name": "Shatter Rebar",
+        "category": "Ammos"
+    },
+    {
+        "name": "Explosive Rebar",
+        "category": "Ammos"
+    },
+    {
+        "name": "Rifle Ammo",
+        "category": "Ammos"
+    },
+    {
+        "name": "Homing Rifle Ammo",
+        "category": "Ammos"
+    },
+    {
+        "name": "Turbo Rifle Ammo",
+        "category": "Ammos"
+    },
+    {
+        "name": "Nobelisk",
+        "category": "Ammos"
+    },
+    {
+        "name": "Gas Nobelisk",
+        "category": "Ammos"
+    },
+    {
+        "name": "Pulse Nobelisk",
+        "category": "Ammos"
+    },
+    {
+        "name": "Cluster Nobelisk",
+        "category": "Ammos"
+    },
+    {
+        "name": "Nuke Nobelisk",
+        "category": "Ammos"
+    },
+    {
+        "name": "Electromagnetic Control Rod",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Encased Uranium Cell",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Non-Fissile Uranium",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Plutonium Pellet",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Encased Plutonium Cell",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Ficsonium",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Ficsonium Fuel Rod",
+        "category": "Nuclear"
+    },
+    {
+        "name": "Uranium Waste",
+        "category": "Waste"
+    },
+    {
+        "name": "Plutonium Waste",
+        "category": "Waste"
+    },
+    {
+        "name": "Blue Power Slug",
+        "category": "Special"
+    },
+    {
+        "name": "Yellow Power Slug",
+        "category": "Special"
+    },
+    {
+        "name": "Purple Power Slug",
+        "category": "Special"
+    },
+    {
+        "name": "Power Shard",
+        "category": "Special"
+    },
+    {
+        "name": "FICSIT Coupon",
+        "category": "Special"
+    },
+    {
+        "name": "Smart Plating",
+        "category": "Special"
+    },
+    {
+        "name": "Versatile Framework",
+        "category": "Special"
+    },
+    {
+        "name": "Automated Wiring",
+        "category": "Special"
+    },
+    {
+        "name": "Modular Engine",
+        "category": "Special"
+    },
+    {
+        "name": "Adaptive Control Unit",
+        "category": "Special"
+    },
+    {
+        "name": "Assembly Director System",
+        "category": "Special"
+    },
+    {
+        "name": "Magnetic Field Generator",
+        "category": "Special"
+    },
+    {
+        "name": "Thermal Propulsion Rocket",
+        "category": "Special"
+    },
+    {
+        "name": "Nuclear Pasta",
+        "category": "Special"
+    },
+    {
+        "name": "Biochemical Sculptor",
+        "category": "Special"
+    },
+    {
+        "name": "Ballistic Warp Drive",
+        "category": "Special"
+    },
+    {
+        "name": "AI Expansion Server",
+        "category": "Special"
+    },
+    {
+        "name": "FICSMAS Gift",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Candy Cane",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Actual Snow",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Red FICSMAS Ornament",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Blue FICSMAS Ornament",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Copper FICSMAS Ornament",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Iron FICSMAS Ornament",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Ornament Bundle",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Bow",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Tree Branch",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Wonder Star",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Wreath",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Snowball",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Sweet Fireworks",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Fancy Fireworks",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Sparkly Fireworks",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Data Cartridge Day 1",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Data Cartridge Day 4",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Data Cartridge Day 8",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "FICSMAS Data Cartridge Day 14",
+        "category": "FICS*MAS Holiday Event"
+    },
+    {
+        "name": "Portable Miner",
+        "category": "Tools"
+    },
+    {
+        "name": "Zipline",
+        "category": "Tools"
+    },
+    {
+        "name": "Chainsaw",
+        "category": "Tools"
+    },
+    {
+        "name": "Object Scanner",
+        "category": "Tools"
+    },
+    {
+        "name": "Medicinal Inhaler",
+        "category": "Tools"
+    },
+    {
+        "name": "Blade Runners",
+        "category": "Tools"
+    },
+    {
+        "name": "Parachute",
+        "category": "Tools"
+    },
+    {
+        "name": "Jetpack",
+        "category": "Tools"
+    },
+    {
+        "name": "Hoverpack",
+        "category": "Tools"
+    },
+    {
+        "name": "Gas Mask",
+        "category": "Tools"
+    },
+    {
+        "name": "Hazmat Suit",
+        "category": "Tools"
+    },
+    {
+        "name": "Xeno-Zapper",
+        "category": "Tools"
+    },
+    {
+        "name": "Rebar Gun",
+        "category": "Tools"
+    },
+    {
+        "name": "Rifle",
+        "category": "Tools"
+    },
+    {
+        "name": "Xeno-Basher",
+        "category": "Tools"
+    },
+    {
+        "name": "Nobelisk Detonator",
+        "category": "Tools"
+    },
+    {
+        "name": "Factory Cart™",
+        "category": "Tools"
+    },
+    {
+        "name": "Golden Factory Cart™",
+        "category": "Tools"
+    },
+    {
+        "name": "Candy Cane Basher",
+        "category": "Tools"
+    }
+]

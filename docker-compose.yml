@@ -1,0 +1,14 @@
+services:
+  SBM_db:
+    image: postgres:15
+    restart: no
+    environment:
+      POSTGRES_USER: SBM_user
+      POSTGRES_PASSWORD: SBM_pass
+      POSTGRES_DB: SBM_db
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/initsql:ro
+
+volumes:
+  db_data:
